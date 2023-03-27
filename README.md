@@ -1,4 +1,5 @@
 # Project Euler
+[link](https://www.freecodecamp.org/learn/project-euler)
 Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
 
 These problems range in difficulty and, for many, the experience is inductive chain learning. That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. Can you finish them all?
@@ -9,9 +10,9 @@ In this first set of challenges, you will use mathematical concepts like the Fib
 <details>
 <summary>1 - 100</summary>
 
-| title | done | link |
+| title | done | link | solution |
 | --- | --- | --- |
-| [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-1-multiples-of-3-and-5) | done | [link](./problems1100/problem1/) |
+| [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-1-multiples-of-3-and-5) | done | [link](./problems1100/problem1/) | [link](./problems1100/problem1/) |
 |Problem 2: Even Fibonacci Numbers||
 |Problem 3: Largest prime factor||
 |Problem 4: Largest palindrome product||
