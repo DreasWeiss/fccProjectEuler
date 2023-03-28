@@ -12,9 +12,9 @@ In this first set of challenges, you will use mathematical concepts like the Fib
 
 | Problem - link | done | link | solution |
 | --- | --- | --- | --- |
-| [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-1-multiples-of-3-and-5) | ✅ | [link](./problems1100/problem1/) | [solution](./problems1100/problem1/) |
+| [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-1-multiples-of-3-and-5) | ✅ | [link](./problems1100/problem1/) | [solution](./problems1100/problem1/problem.js) |
+| [Problem 2: Even Fibonacci Numbers]() | ✅ | [link](./problems1100/problem2/) | [solution](./problems1100/problem2/problem.js) |
 
-|Problem 2: Even Fibonacci Numbers||
 |Problem 3: Largest prime factor||
 |Problem 4: Largest palindrome product||
 |Problem 5: Smallest multiple||
