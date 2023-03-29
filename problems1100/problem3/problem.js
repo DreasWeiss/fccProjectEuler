@@ -1,6 +1,13 @@
 function largestPrimeFactor(number) {
-
-    return true;
+    let n = 2;
+    while (n < number) {
+        if (number % n === 0) {
+            number /= n
+        } else {
+            n++
+        }
+    }
+    return n;
 }
 
 console.log(largestPrimeFactor(13195));
